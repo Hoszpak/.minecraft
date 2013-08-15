@@ -1,0 +1,3 @@
+- Drag the zip(s) you require into your '.minecraft\texturepacks' folder
+- Load Minecraft and select the texture pack
+- Play!

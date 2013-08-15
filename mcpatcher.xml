@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcpatcherProfile>
+  <config>
+    <debug>false</debug>
+    <lastVersion>2.4.0</lastVersion>
+    <betaWarningShown>false</betaWarningShown>
+    <javaHeapSize>1024</javaHeapSize>
+    <selectedProfile>Minecraft 1.2.5</selectedProfile>
+  </config>
+  <mods profile="Minecraft 1.2.5">
+    <mod>
+      <name>HD Textures</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+      <config>
+        <customWater>true</customWater>
+        <animatedWater>true</animatedWater>
+        <customLava>true</customLava>
+        <animatedLava>true</animatedLava>
+        <customFire>true</customFire>
+        <animatedFire>true</animatedFire>
+        <customPortal>true</customPortal>
+        <animatedPortal>true</animatedPortal>
+        <customOther>true</customOther>
+        <useTextureCache>true</useTextureCache>
+        <reclaimGLMemory>false</reclaimGLMemory>
+        <autoRefreshTextures>false</autoRefreshTextures>
+      </config>
+    </mod>
+    <mod>
+      <name>HD Font</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+    </mod>
+    <mod>
+      <name>Better Grass</name>
+      <enabled>false</enabled>
+      <type>builtIn</type>
+    </mod>
+    <mod>
+      <name>Random Mobs</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+    </mod>
+    <mod>
+      <name>Custom Colors</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+      <config>
+        <water>true</water>
+        <swamp>true</swamp>
+        <tree>true</tree>
+        <potion>true</potion>
+        <particle>true</particle>
+        <lightmaps>true</lightmaps>
+        <clouds>true</clouds>
+        <redstone>true</redstone>
+        <stem>true</stem>
+        <egg>true</egg>
+        <map>true</map>
+        <sheep>true</sheep>
+        <fog>true</fog>
+        <otherBlocks>true</otherBlocks>
+        <text>true</text>
+        <xporb>true</xporb>
+        <fogBlendRadius>7</fogBlendRadius>
+        <blockBlendRadius>1</blockBlendRadius>
+      </config>
+    </mod>
+    <mod>
+      <name>Connected Textures</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+      <config>
+        <glass>true</glass>
+        <glassPane>true</glassPane>
+        <bookshelf>true</bookshelf>
+        <sandstone>true</sandstone>
+        <standard>true</standard>
+        <nonStandard>true</nonStandard>
+        <outline>false</outline>
+      </config>
+    </mod>
+    <mod>
+      <name>Better Skies</name>
+      <enabled>true</enabled>
+      <type>builtIn</type>
+    </mod>
+  </mods>
+</mcpatcherProfile>

@@ -1,0 +1,9 @@
+serverMOTD:Minecraft Server
+serverIP:192.168.0.17
+serverPort:1924
+serverMaxPlayers:16
+serverOnlineMode:true
+serverAllowPvP:true
+serverCanSpawnNPCs:true
+serverCanSpawnAnimals:true
+serverAllowFlight:true
